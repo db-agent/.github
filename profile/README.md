@@ -2,7 +2,7 @@
 
 Open-source AI tools for people who work with databases.
 
-## Text-to-SQL: [db-agent](https://github.com/db-agent/db-agent)
+## Text-to-SQL
 
 Ask a question in plain English and get a SQL answer you can check. Schema-aware, with a SELECT-only safety layer,
 per-answer token and warehouse cost, an MCP gateway for Claude Desktop, VS Code and Claude Code, and deployment
@@ -21,4 +21,4 @@ db-agent databricks health runtimes, legacy dependencies, DBU spend and spend wa
 
 ## Links
 
-[becloudready.com/tools/db-agent](https://becloudready.com/tools/db-agent)
+[db-agent.com](https://db-agent.com)
