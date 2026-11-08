@@ -10,7 +10,7 @@ patterns for Databricks Apps, Postgres/MySQL and AWS.
 
 - Presented at the AAAI-25 Workshop on Open-Source AI for Mainstream Use.
   
-## DBA toolkit: the `db-agent` command line (in private testing)
+## DBA toolkit: the `db-agent` command line 
 
 Read-only checks for the people who run databases, one command group per engine:
 
